@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primer Repositori</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>Primer repositori</h1>
-    Aquest és el meu primer commit  
+    <?php
+        echo "<h1>Hello World</h1>";
+    ?>
 </body>
 </html>
